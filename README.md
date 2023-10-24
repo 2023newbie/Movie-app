@@ -43,7 +43,7 @@ An movie website where display all the lastest released movies by it's category 
 #### Client-side (Dir: Frontend)
 
 ```
-$ cd client          // go to client folder
+$ cd Frontend          // go to client folder
 $ yarn # or npm i    // npm install packages
 $ npm start       // run it locally
 ```
@@ -51,7 +51,7 @@ $ npm start       // run it locally
 #### Admin-side (Dir: Backend)
 
 ```
-$ cd server   // go to server folder
+$ cd Backend   // go to server folder
 $ npm i       // npm install packages
 $ npm start // run it locally
 ```
